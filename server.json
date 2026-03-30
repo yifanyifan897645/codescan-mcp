@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.yifanyifan897645/codescan",
+  "description": "Scan codebase: TODOs, complexity, file stats, dependencies, health grade. Zero config.",
+  "repository": {
+    "url": "https://github.com/yifanyifan897645/codescan-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "codescan-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
