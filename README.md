@@ -118,10 +118,7 @@ Add to `~/.codeium/windsurf/mcp_config.json`:
 - [mcp-checkup](https://www.npmjs.com/package/mcp-checkup) — MCP setup health analyzer
 - [dev-utils-mcp](https://www.npmjs.com/package/dev-utils-mcp) — Developer utilities
 - [codescan-mcp](https://www.npmjs.com/package/codescan-mcp) — Codebase health scanner
-
----
-
-Want to build and monetize your own MCP servers? Check out the [development kit](https://ifdian.net/item/fdfddfb02c1311f1ae625254001e7c00).
+- [deadlink-checker-mcp](https://www.npmjs.com/package/deadlink-checker-mcp) — Dead link detector
 
 ## License
 
