@@ -1,6 +1,6 @@
 {
   "name": "codescan-mcp",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "mcpName": "io.github.yifanyifan897645/codescan",
   "description": "MCP server that scans your codebase for TODOs, FIXMEs, code complexity, file stats, and tech debt signals. Zero config.",
   "main": "dist/index.js",
